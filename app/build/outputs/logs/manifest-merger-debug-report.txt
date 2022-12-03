@@ -1,0 +1,224 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:grantUriPermissions
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:25:13-47
+	android:authorities
+		INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:23:13-60
+	android:exported
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:22:13-62
+manifest
+ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:2:1-61:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\26387bff2f08c8b0b0182a21d571e761\constraintlayout-2.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\0f68f02d4eb7c899392de0300a07285a\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\f4c0d726fc0e5d830b8d8bc9f7d0a396\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\ec405108832dd0d34725ec01b1378307\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\7eb3e9033e20967dc4b6eab4b9d34b59\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\63dac4b0f8ef13947ce880083f712369\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\73b741376758043ca71b2712dd6b8e85\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\8820464f905e976a0e372e114ed12d81\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\69b157e8ca7c4f8e65106af271a2dd62\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\ee8663f4341a41303331ea0b304242d0\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\db341947bb3b430f2ccfc05cfed8623a\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\4764869116b7944d884a78eb3b5d999f\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\bb39ea0a726041ab478566c42daa0a7a\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\271d0ad8fab014e1b69399f7396f344c\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\4dea87d08cf4eca2be6818de5406de80\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\9c87d4ce634b90f093cf672ae75a3e2d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\f2e8952936b7109d6ac9ab1e40e3d573\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\bef2ac585d83c283d2fd49a0b9ae8f63\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:5:5-7:35
+	android:required
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:7:9-32
+	android:name
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:6:9-47
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:10:22-78
+application
+ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:12:5-59:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\26387bff2f08c8b0b0182a21d571e761\constraintlayout-2.0.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\26387bff2f08c8b0b0182a21d571e761\constraintlayout-2.0.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\0f68f02d4eb7c899392de0300a07285a\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\0f68f02d4eb7c899392de0300a07285a\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\bb39ea0a726041ab478566c42daa0a7a\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\bb39ea0a726041ab478566c42daa0a7a\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\bb39ea0a726041ab478566c42daa0a7a\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.example.elshrouk.PhotoViewerActivity
+ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:19:9-66
+	android:name
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:19:19-54
+activity#com.example.elshrouk.MainActivity
+ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:31:9-37:20
+	android:name
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:31:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:35:27-74
+activity#com.example.elshrouk.CatalogActivity
+ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:38:9-45:20
+	android:parentActivityName
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:41:13-55
+	android:label
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:40:13-58
+	android:name
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:39:13-44
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:42:13-44:49
+	android:value
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:44:17-46
+	android:name
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:43:17-63
+activity#com.example.elshrouk.EditorActivity
+ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:46:9-53:20
+	android:parentActivityName
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:49:13-58
+	android:label
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:48:13-57
+	android:name
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:47:13-43
+provider#com.example.elshrouk.data.StuProvider
+ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:55:9-58:40
+	android:authorities
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:57:13-55
+	android:exported
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:56:13-45
+uses-sdk
+INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml
+INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\26387bff2f08c8b0b0182a21d571e761\constraintlayout-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\26387bff2f08c8b0b0182a21d571e761\constraintlayout-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\0f68f02d4eb7c899392de0300a07285a\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\0f68f02d4eb7c899392de0300a07285a\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\f4c0d726fc0e5d830b8d8bc9f7d0a396\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\f4c0d726fc0e5d830b8d8bc9f7d0a396\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\ec405108832dd0d34725ec01b1378307\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\ec405108832dd0d34725ec01b1378307\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\7eb3e9033e20967dc4b6eab4b9d34b59\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\7eb3e9033e20967dc4b6eab4b9d34b59\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\63dac4b0f8ef13947ce880083f712369\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\63dac4b0f8ef13947ce880083f712369\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\73b741376758043ca71b2712dd6b8e85\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\73b741376758043ca71b2712dd6b8e85\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\8820464f905e976a0e372e114ed12d81\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\8820464f905e976a0e372e114ed12d81\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\69b157e8ca7c4f8e65106af271a2dd62\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\69b157e8ca7c4f8e65106af271a2dd62\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\ee8663f4341a41303331ea0b304242d0\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\ee8663f4341a41303331ea0b304242d0\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\db341947bb3b430f2ccfc05cfed8623a\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\db341947bb3b430f2ccfc05cfed8623a\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\4764869116b7944d884a78eb3b5d999f\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\4764869116b7944d884a78eb3b5d999f\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\bb39ea0a726041ab478566c42daa0a7a\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\bb39ea0a726041ab478566c42daa0a7a\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\271d0ad8fab014e1b69399f7396f344c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\271d0ad8fab014e1b69399f7396f344c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\4dea87d08cf4eca2be6818de5406de80\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\4dea87d08cf4eca2be6818de5406de80\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\9c87d4ce634b90f093cf672ae75a3e2d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\9c87d4ce634b90f093cf672ae75a3e2d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\f2e8952936b7109d6ac9ab1e40e3d573\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\f2e8952936b7109d6ac9ab1e40e3d573\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\bef2ac585d83c283d2fd49a0b9ae8f63\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\bef2ac585d83c283d2fd49a0b9ae8f63\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml
+INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:26:13-28:54
+	android:resource
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:28:17-51
+	android:name
+		ADDED from F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:27:17-67

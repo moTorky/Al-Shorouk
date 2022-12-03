@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">el Shrouk</string>
+    <string name="Catalog_Activity_Name">Students</string>
+    <string name="Editor_Activity_Name">add new Student</string>
+    <string name="update_stu">Update Student</string>
+
+    <string name="add_class">New Class</string>
+    <string name="add_class_btn">Create new Class</string>
+    <string name="gender_unknown">Unknown</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+
+    <string name="delete_all_stu">Delete all Stu</string>
+    <string name="save_Stu">Save</string>
+    <string name="delete_stu">Delete</string>
+
+    <string name="empty_view_title_text">It\'s a student lonely here ...</string>
+    <string name="empty_view_subtitle_text">Get start by add new Student</string>
+</resources>

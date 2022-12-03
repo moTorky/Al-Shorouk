@@ -1,0 +1,4 @@
+#Sat Dec 03 16:06:18 EET 2022
+base.0=F\:\\Courses\\04-Android\\elShrouk App\\elShrouk\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

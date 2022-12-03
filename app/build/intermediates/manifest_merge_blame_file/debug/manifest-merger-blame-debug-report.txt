@@ -1,0 +1,121 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.elshrouk"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml
+10
+11    <uses-feature
+11-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:5:5-7:35
+12        android:name="android.hardware.camera"
+12-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:6:9-47
+13        android:required="true" />
+13-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:7:9-32
+14
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:9:5-80
+15-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:9:22-77
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:10:5-81
+16-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:10:22-78
+17
+18    <application
+18-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:12:5-59:19
+19        android:allowBackup="true"
+19-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:13:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.3.1] C:\Users\Mo R Torky\.gradle\caches\transforms-2\files-2.1\bb39ea0a726041ab478566c42daa0a7a\core-1.3.1\AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:icon="@mipmap/ic_launcher"
+22-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:14:9-43
+23        android:label="@string/app_name"
+23-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:15:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:16:9-54
+25        android:supportsRtl="true"
+25-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:17:9-35
+26        android:testOnly="true"
+27        android:theme="@style/AppTheme" >
+27-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:18:9-40
+28        <activity android:name="com.example.elshrouk.PhotoViewerActivity" />
+28-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:19:9-66
+28-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:19:19-54
+29
+30        <provider
+31            android:name="androidx.core.content.FileProvider"
+31-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:22:13-62
+32            android:authorities="com.example.elshrouk.provider"
+32-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:23:13-60
+33            android:exported="false"
+33-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:24:13-37
+34            android:grantUriPermissions="true" >
+34-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:25:13-47
+35            <meta-data
+35-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:26:13-28:54
+36                android:name="android.support.FILE_PROVIDER_PATHS"
+36-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:27:17-67
+37                android:resource="@xml/file_paths" />
+37-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:28:17-51
+38        </provider>
+39
+40        <activity android:name="com.example.elshrouk.MainActivity" >
+40-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:31:9-37:20
+40-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:31:19-47
+41            <intent-filter>
+41-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:32:13-36:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:33:17-69
+42-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:33:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:35:17-77
+44-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:35:27-74
+45            </intent-filter>
+46        </activity>
+47        <activity
+47-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:38:9-45:20
+48            android:name="com.example.elshrouk.CatalogActivity"
+48-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:39:13-44
+49            android:label="@string/Catalog_Activity_Name"
+49-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:40:13-58
+50            android:parentActivityName="com.example.elshrouk.MainActivity" >
+50-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:41:13-55
+51            <meta-data
+51-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:42:13-44:49
+52                android:name="android.support.PARENT_ACTIVITY"
+52-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:43:17-63
+53                android:value=".MainActivity" />
+53-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:44:17-46
+54        </activity>
+55        <activity
+55-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:46:9-53:20
+56            android:name="com.example.elshrouk.EditorActivity"
+56-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:47:13-43
+57            android:label="@string/Editor_Activity_Name"
+57-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:48:13-57
+58            android:parentActivityName="com.example.elshrouk.CatalogActivity" >
+58-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:49:13-58
+59            <meta-data
+59-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:42:13-44:49
+60                android:name="android.support.PARENT_ACTIVITY"
+60-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:43:17-63
+61                android:value=".CatalogActivity" />
+61-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:44:17-46
+62        </activity>
+63
+64        <provider
+64-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:55:9-58:40
+65            android:name="com.example.elshrouk.data.StuProvider"
+65-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:56:13-45
+66            android:authorities="com.example.elshrouk"
+66-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:57:13-55
+67            android:exported="false" />
+67-->F:\Courses\04-Android\elShrouk App\elShrouk\app\src\main\AndroidManifest.xml:58:13-37
+68    </application>
+69
+70</manifest>
